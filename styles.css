@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+
+.teste{
+    background-color: red;
+    width: 50%;
+    height: 45em;
+    margin-right:auto;
+    margin-left: auto;
+}
