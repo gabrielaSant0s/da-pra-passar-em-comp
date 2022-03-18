@@ -1,11 +1,34 @@
 body{
-    background-color: blue;
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
 }
 
-.teste{
-    background-color: red;
+.base{
+    background-color: rgb(158, 152, 152);
     width: 50%;
-    height: 45em;
+    height: 40em;
+    margin-top: 4em;
     margin-right:auto;
     margin-left: auto;
+    border-radius: 5%;
+}
+
+.cabecalho{
+    width: 100%;
+    height: 20%;
+    color: rgb(36, 26, 26);
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.espacos{
+    background-color: red;
+    width: 80%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
