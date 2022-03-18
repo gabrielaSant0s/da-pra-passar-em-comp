@@ -26,9 +26,23 @@ body{
 }
 
 .espacos{
-    background-color: red;
     width: 80%;
     height: 70%;
     margin-left: auto;
     margin-right: auto;
+}
+
+input{
+    margin-bottom: 1em;
+    display: inline-block;
+    padding-left: 15%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+label{
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
 }
