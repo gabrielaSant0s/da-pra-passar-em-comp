@@ -55,6 +55,7 @@ label{
 @media screen and (max-width: 992px) {
     .base {
       width: 90%;
+      margin-top: 0rem;
     }
     .cabecalho{
         font-size: 1.5rem;
